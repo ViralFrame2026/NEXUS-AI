@@ -1,0 +1,1 @@
+{"name":"nexus-ai","private":true,"version":"3.0.0","type":"module","scripts":{"dev":"vite","build":"vite build"},"dependencies":{"@cloudflare/vite-plugin":"latest","vite":"^6.1.0"},"devDependencies":{"@cloudflare/workers-types":"latest"}}
